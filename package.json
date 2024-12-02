@@ -1,7 +1,7 @@
 {
   "name": "poc_cypress_bdd",
   "version": "1.0.0",
-  "description": "Cypress BDD framework - SPS-Admin",
+  "description": "Cypress BDD framework - Magento WebPortal",
   "scripts": {
     "cy:run": "cypress run",
     "cy:apitst": "npx cypress open --env tst=web_url",
